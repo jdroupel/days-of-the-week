@@ -88,7 +88,7 @@
       text-decoration: none; /* para <a> también */
     }
     .button.secondary {
-	  width:33%;
+	  width:100%;
 	  float:left;
       background: linear-gradient(180deg, #0ea5e9, #0369a1);
       box-shadow: 0 8px 20px rgba(14, 165, 233, 0.35), inset 0 0 0 1px rgba(255, 255, 255, 0.12);
@@ -125,4 +125,5 @@
       .screen { padding: 22px 20px; }
       .buttons { gap: 16px; }
     }
+
 
